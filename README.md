@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently an undergrad studying computer engineering 💻<br>learning is endless
+I’m an undergrad computer engineering student 💻<br>  
+focused on full-stack development and UI-driven projects ⚙<br>
 
 
 ## 🌐 Socials:
