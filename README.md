@@ -1,6 +1,6 @@
 # 💫 About Me:
-I’m an undergrad computer engineering student 💻<br>  
-focused on full-stack development and UI-driven projects ⚙<br>
+I’m an undergrad computer engineering student 💻 
+focused on full-stack development and UI-driven projects ⚙
 
 
 ## 🌐 Socials:
