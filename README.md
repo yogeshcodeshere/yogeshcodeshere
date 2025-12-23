@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an undergrad computer engineering student 💻 
+I’m an undergrad computer engineering student 💻 <br>
 focused on full-stack development and UI-driven projects ⚙
 
 
